@@ -1,7 +1,7 @@
 def unsafe?(speed)
   if speed > 60
-  answer = 79
-    "unsafe"
+  answer = unsafe?(79)
+    
    
 
 end
